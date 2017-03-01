@@ -1,0 +1,8 @@
+How to install LuXPr0xy?
+
+1. Extract this archieve in a folder.
+2. Open Google Chrome. Then go to "chrome://extensions"
+3. Click on the checkbox developers mode.
+4. Find the folder of the extracted files. Then click OK.
+5. Find the LuXPr0xy at the end of OmniBox in Google Chrome.
+6. Enjoy!
